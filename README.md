@@ -1,0 +1,1 @@
+Javascript code for extracting values or selectors
